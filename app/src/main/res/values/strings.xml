@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Stop Watch</string>
+    <string name="set_the_timer">Set the timer</string>
+    <string name="_00_00">00:00</string>
+    <string name="_00">00</string>
+    <string name="symbol">:</string>
+    <string name="plus">plus</string>
+    <string name="minus">minus</string>
+    <string name="zero">0</string>
+</resources>
